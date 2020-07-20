@@ -1,9 +1,10 @@
 ### Hey there 👋🏻
 # I'M Tanishq Soni.
 
-# Driven to build the future.
+'Driven to build the future.'
 
 I am an undergraduate computer science student who always learns new Skills and Technologies everyday!
+
 I am currently working on Data Science using Python!
 
 # Contact: 
