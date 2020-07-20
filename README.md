@@ -10,4 +10,6 @@ I am currently working on Data Science using Python.
 ### Contact: 
 LinkedIn: https://www.linkedin.com/in/tanishq-soni
 
+Mail: mailto:tanishqsoni49777@gmail.com
+
 Twitter: https://twitter.com/tanishq_soni_
