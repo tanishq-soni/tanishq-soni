@@ -1,5 +1,5 @@
 ### Hey there 👋🏻
-# I'M Tanishq Soni.
+# I'm Tanishq Soni.
 
 #### Driven to build the future.
 
