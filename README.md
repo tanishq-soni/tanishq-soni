@@ -7,6 +7,7 @@ I am an undergraduate computer science student who always learns new Skills and 
 
 I am currently working on Data Science using Python!
 
-## Contact: 
+### Contact: 
 LinkedIn: https://www.linkedin.com/in/tanishq-soni
+
 Twitter: https://twitter.com/tanishq_soni_
