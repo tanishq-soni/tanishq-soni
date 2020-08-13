@@ -1,15 +1,17 @@
 ### Hey there 👋🏻
 # I'm Tanishq Soni
 
-```python 
-print("Driven to build the future 🔥")
+```html
+<body>
+  Driven to build the future 🔥
+</body>
 ```
 
 I am undergraduate computer science student by day and programmer by night.
 
 I love to code and build something unique everytime by exploring new Skills and Technologies. 
 
-I am currently learning and working on Data Science and Python Programming.
+Currently learning and working on Data Science and Python Programming!
 
 
 ### Contact: 
