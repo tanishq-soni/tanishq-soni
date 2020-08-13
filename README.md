@@ -1,9 +1,9 @@
 ### Hey there 👋🏻
 # I'm Tanishq Soni
 
-#### Driven to build the future!
+#### Driven to build the future 🔥
 
-Hey, I am Tanishq Soni and i am undergraduate computer science student by day and programmer by night.
+I am undergraduate computer science student by day and programmer by night.
 
 I love to code and build something unique everytime by exploring new Skills and Technologies. 
 
