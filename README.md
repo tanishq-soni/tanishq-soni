@@ -9,7 +9,7 @@ I love to code and build something unique everytime by exploring new Skills and 
 
 I am currently learning and working on Data Science and Python Programming.
 ```python
-hello
+print("hello")
 ```
 
 ### Contact: 
