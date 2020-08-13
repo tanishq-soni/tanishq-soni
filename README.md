@@ -1,11 +1,7 @@
 ### Hey there 👋🏻
 # I'm Tanishq Soni
 
-```html
-<body>
-  Driven to build the future 🔥
-</body>
-```
+###Driven to build the future 🔥
 
 I am undergraduate computer science student by day and programmer by night.
 
