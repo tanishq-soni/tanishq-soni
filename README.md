@@ -3,11 +3,15 @@
 
 #### Driven to build the future!
 
-I am an undergraduate computer science student who always learns new Skills and Technologies everyday.
+Hey, I am Tanishq Soni and i am undergraduate computer science student by day and programmer by night.
 
-I am currently working on Data Science using Python.
+I love to code and build something unique everytime by exploring new Skills and Technologies. 
+
+I am currently learning and working on Data Science and Python Programming.
 
 ### Contact: 
+Personal: https://tanishqsoni.me 
+
 LinkedIn: https://www.linkedin.com/in/tanishq-soni
 
 Mail: mailto:tanishqsoni49777@gmail.com
