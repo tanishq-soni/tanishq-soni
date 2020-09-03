@@ -10,6 +10,8 @@ I love to code and build something unique everytime by exploring new Skills and 
 
 Currently learning and working on Data Science and Python Programming!
 
+![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishq-soni&theme=dark&show_icons=true)
+
 
 ### Contact: 
 Personal: https://tanishqsoni.me 
