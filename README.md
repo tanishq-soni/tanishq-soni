@@ -18,4 +18,4 @@ Currently learning and working on Data Science and Python Programming!
 | [Mail](mailto:tanishqsoni49777@gmail.com) |
 | [LinkedIn](https://www.linkedin.com/in/tanishq-soni) |
 | [Twitter](https://twitter.com/tanishq_soni_) |
-| [Epic Website](https://tanishqsoni.me ) |
+| [Website](https://tanishqsoni.me ) |
