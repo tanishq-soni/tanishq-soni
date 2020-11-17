@@ -1,11 +1,13 @@
-### Hey there 👋🏻
+### Hey there 👋
 # I'm Tanishq Soni
 
-I am undergraduate computer science student by day and programmer by night.
+- 🌅 I am a student by day and programmer by night 🖥️
 
-I love to code and build something unique everytime by exploring new Skills and Technologies. 
+- ❤️ I love to code something unique everytime by exploring new Technologies
 
-Currently learning and working on Data Science and Python Programming!
+- 🔭 I’m currently working on JS, Python & C
+
+- 😄 Pronouns: he/him
 
 ![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishq-soni&theme=graywhite&show_icons=true)
 
