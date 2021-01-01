@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: he/him
 
-![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishq-soni&theme=graywhite&show_icons=true)
+![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishq-soni&theme=dark&show_icons=true)
 
 | Contact |
 |---|
