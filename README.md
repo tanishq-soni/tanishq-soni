@@ -5,7 +5,7 @@
 
 - ❤️ I love to code something unique everytime by exploring new Technologies
 
-- 🔭 I’m currently working on JS, Python & C
+- 🔭 I’m currently working on JS
 
 - 😄 Pronouns: he/him
 
