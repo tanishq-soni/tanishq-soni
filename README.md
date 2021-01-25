@@ -13,7 +13,7 @@
 
 | Contact |
 |---|
-| [Mail](mailto:hi@tanishqsoni.me) |
+| [Email](mailto:hi@tanishqsoni.me) |
 | [LinkedIn](https://www.linkedin.com/in/tanishq-soni) |
 | [Twitter](https://twitter.com/tanishq_soni_) |
 | [Website](https://tanishqsoni.me ) |
