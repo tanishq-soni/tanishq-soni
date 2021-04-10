@@ -21,13 +21,5 @@
 <hr>
 <img src="https://komarev.com/ghpvc/?username=tanishq-soni&color=50d9eb&label=Profile+views" /> 
 
-#### LocalHackDay Share Repositories
-[![LHDShare-GuildWebsite](https://github-readme-stats.vercel.app/api/pin/?username=tanishq-soni&repo=LHDShare-GuildWebsite)](https://github.com/tanishq-soni/LHDShare-GuildWebsite)
-[![LHDShare-PersonalBlog](https://github-readme-stats.vercel.app/api/pin/?username=tanishq-soni&repo=LHDShare-PersonalBlog)](https://github.com/tanishq-soni/LHDShare-PersonalBlog)
-[![LHDShare-MobileApp](https://github-readme-stats.vercel.app/api/pin/?username=tanishq-soni&repo=LHDShare-MobileApp)](https://github.com/tanishq-soni/LHDShare-MobileApp)
-[![LHDShare-Authentication](https://github-readme-stats.vercel.app/api/pin/?username=tanishq-soni&repo=LHDShare-Authentication)](https://github.com/tanishq-soni/LHDShare-Authentication)
-[![LHDShare-StickersDatabase](https://github-readme-stats.vercel.app/api/pin/?username=tanishq-soni&repo=LHDShare-StickersDatabase)](https://github.com/tanishq-soni/LHDShare-StickersDatabase)
-[![LHDShare-MusicVisualizer](https://github-readme-stats.vercel.app/api/pin/?username=tanishq-soni&repo=LHDShare-MusicVisualizer)](https://github.com/tanishq-soni/LHDShare-MusicVisualizer)
-[![LHDShare-HelloWorld](https://github-readme-stats.vercel.app/api/pin/?username=tanishq-soni&repo=LHDShare-HelloWorld)](https://github.com/tanishq-soni/LHDShare-HelloWorld)
 
 
