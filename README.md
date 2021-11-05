@@ -15,7 +15,7 @@
 | [Email](mailto:hi@tanishq.me) |
 | [LinkedIn](https://www.linkedin.com/in/tanishq-soni) |
 | [Twitter](https://twitter.com/tanishq_soni_) |
-| [Website](https://tanishqsoni.me ) |
+| [Website](https://tanishq.me ) |
 
 <hr>
 <img src="https://komarev.com/ghpvc/?username=tanishq-soni&color=50d9eb&label=Profile+views" /> 
