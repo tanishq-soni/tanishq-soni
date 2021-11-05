@@ -9,11 +9,10 @@
 
 - 😄 Pronouns: he/him
 
-![Tanishq's github stats](https://github-readme-stats.vercel.app/api?username=tanishq-soni&theme=dark&show_icons=true)
 
 | Contact |
 |---|
-| [Email](mailto:hi@tanishqsoni.me) |
+| [Email](mailto:hi@tanishq.me) |
 | [LinkedIn](https://www.linkedin.com/in/tanishq-soni) |
 | [Twitter](https://twitter.com/tanishq_soni_) |
 | [Website](https://tanishqsoni.me ) |
