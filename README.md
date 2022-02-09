@@ -1,5 +1,5 @@
 ### Hey 👋
-# I'm [**Tanishq Soni**](https://tanishq.me)
+# I'm [**Tanishq**](https://tanishq.me)
 
 - 👨‍🎓  I'm undergraduate CS student  👨🏻‍💻
 
