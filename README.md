@@ -1,7 +1,7 @@
 ### Hey 👋
 # I'm [**Tanishq Soni**](https://tanishq.me)
 
-- 👨‍🎓  I'm undergraduate CS student and also a programmer👨🏻‍💻
+- 👨‍🎓  I'm undergraduate CS student  👨🏻‍💻
 
 - ❤️ I love to code something unique everytime by exploring new Technologies
 
