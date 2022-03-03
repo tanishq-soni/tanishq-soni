@@ -1,4 +1,3 @@
-## Hey 👋
 # I'm [**Tanishq**](https://tanishq.me)
 
 - 👨‍🎓 I'm undergraduate CS student  👨🏻‍💻
