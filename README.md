@@ -1,6 +1,6 @@
 # Hey! I'm [**Tanishq**](https://tanishq.me)
 
-- 👨‍🎓 I'm undergraduate CS student
+- 👨‍🎓 I'm undergraduate computer science student
 
 - ❤️ I love developing cool stuff
 
