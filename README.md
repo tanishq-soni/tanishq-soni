@@ -1,10 +1,10 @@
-# I'm [**Tanishq**](https://tanishq.me)
+# Hey! I'm [**Tanishq**](https://tanishq.me)
 
-- 👨‍🎓 I'm undergraduate CS student 👨‍💻
+- 👨‍🎓 I'm undergraduate CS student
 
-- ❤️ I love to code & build something unique everytime by exploring new Skills & Technologies
+- ❤️ I love developing cool stuff
 
-- 🔭 I’m currently exploring Web3 🌐
+- 🌐 I’m currently exploring Web3 
 
 - 😄 Pronouns: he/him
 
